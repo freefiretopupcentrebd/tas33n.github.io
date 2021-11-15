@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/43749971/77254747-c0b54280-6c41-11ea-81a0-a597ee22b56e.png">
+  <img alt="Layout" src="rv.png">
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## :bulb: About the project
 
 This is an open source project that serves as a free alternative to the Linktree website.
-- [Demo](https://johnemerson1406.github.io/linktree)
+- [Demo](https://tas33n.github.io/)
 
 ## :rocket: Getting started
 
@@ -47,5 +47,5 @@ This is an open source project that serves as a free alternative to the Linktree
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
 ---
-
-Made with ♥ by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
+me just a customizer
+originally Made by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
