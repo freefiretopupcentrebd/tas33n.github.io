@@ -37,6 +37,7 @@ This is an open source project that serves as a free alternative to the Linktree
 ## :rocket: Getting started
 
 - Clone the repository
+- Replace username with yours 'tas33n.github.io with yourUsername.github.io'
 - Make changes to images and texts in the `index.html` file.
 - Change the colors and fonts in the `style.css` file.
 
@@ -47,5 +48,5 @@ This is an open source project that serves as a free alternative to the Linktree
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
 ---
-me just a customizer
 originally Made by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
+Redesigned by Farhan Isteak Taseen :wave: [Get in touch](https://tas33n.github.io/)
