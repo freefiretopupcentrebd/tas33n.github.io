@@ -33,7 +33,7 @@ body {
 .active {
 display: none;
 }
-.active div {
+.opc div {
 position: absolute;
     top: 100px;
    left: 20%;
