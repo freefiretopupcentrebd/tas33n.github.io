@@ -234,7 +234,7 @@ display: block !important;
 }
 
 .link:active {
-    background-color: var(--accentColor); 
+    background-color: (--accentColor); 
     color: var(--bgColor);
 }
 
