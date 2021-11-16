@@ -32,7 +32,7 @@ body {
 
 }
 .active {
-display: blobk;
+display: block !important;
 }
 
 #opc div {
