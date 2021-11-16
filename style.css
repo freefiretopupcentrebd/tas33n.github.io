@@ -19,30 +19,7 @@ body {
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
 }
-.music {
-    width: 60px ;
-    height: 60px ;
-    border-width: 20px 10px 0px 10px ;
-    border-style: solid ;
-    border-color: crimson ;
-    position: relative ;
-  }
-.music::after , .music::before {
-    content: "" ;
-    position: absolute ;
-    width: 30px ;
-    height: 30px ;
-    background-color: crimson ;
-    border-radius: 50px 0px 50px 50px ;
-}
-.music::after {
-    left: -30px ;
-    bottom: -22px ;
-}
-.music::before {
-    right: -10px ;
-    bottom: -22px ;
-}
+
 #opc {
     position: fixed;
     top: -70px;
@@ -55,7 +32,7 @@ body {
 
 }
 .active {
-display: none;
+display: blobk;
 }
 
 #opc div {
