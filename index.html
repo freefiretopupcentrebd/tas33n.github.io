@@ -14,7 +14,7 @@
     
      <div id="opc">
           <iframe src="https://codepen.io/strangerintheq/full/BaZeRWm" frameborder="0" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
-  
+  <button id="btn">Toggle</button>
     </div>
 
          
@@ -67,7 +67,14 @@
         #senpai❤
     </div>
 
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+  $("#btn").click(function(){
+    $("#opc").toggleClass("active");
+  });
+});
+</script>
 </body>
 
 </html>
