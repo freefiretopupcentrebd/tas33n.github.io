@@ -229,13 +229,13 @@ display: block !important;
 
 @media (hover: hover) {
     .link:hover {
-        background-color: var(--accentColor);
+        background-color: (--accentColor); /* var(--accentColor); */
         color: var(--bgColor);
     }
 }
 
 .link:active {
-    background-color: (--accentColor); /* var(--accentColor); */
+    background-color: var(--accentColor); 
     color: var(--bgColor);
 }
 
