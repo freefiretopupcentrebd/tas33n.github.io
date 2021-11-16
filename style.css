@@ -31,6 +31,9 @@ body {
     display: none;
 
 }
+#opc iframe {
+    max-width: 560px;
+}
 .active {
 display: block !important;
 }
