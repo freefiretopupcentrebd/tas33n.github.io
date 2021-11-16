@@ -48,5 +48,6 @@ This is an open source project that serves as a free alternative to the Linktree
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
 ---
-originally Made by John Emerson :wave: [Get in touch](https://johnemerson1406.github.io/linktree)
-Redesigned by Farhan Isteak Taseen :wave: [Get in touch](https://tas33n.github.io/)
+originally Made by  :wave: [John Emerson](https://johnemerson1406.github.io/linktree)
+<br>
+Redesigned by :wave: [Farhan Isteak Taseen ](https://tas33n.github.io/)
