@@ -30,6 +30,9 @@ body {
     opacity: 0.7;
 
 }
+.active {
+display: none;
+}
 #profilePicture, #profilePicture img {
     position: relative;
     width: 96px;
