@@ -8,8 +8,8 @@
     <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=John%20Emerson&color=04D361&labelColor=000000">
   </a>
   
-    <a href="https://www.github.com/tas33n/">
-    <img alt="Redesigned by" src="https://img.shields.io/static/v1?label=Redesigned%20by&message=Tas33n&color=04D361&labelColor=000000">
+   <a href="https://github.com/tas33n/">
+    <img alt="redesign by" src="https://img.shields.io/static/v1?label=redesign%20by&message=John%20Emerson&color=04D361&labelColor=000000">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tas33n/tas33n.github.io?color=04D361&labelColor=000000">
