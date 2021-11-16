@@ -27,19 +27,25 @@ body {
     left: 0;
     right: 0;
     z-index: 9;
-    opacity: 0.7;
+    background: rgba(0,0,0,0.6);
 
 }
 .active {
 display: none;
 }
+
 #opc div {
-position: absolute;
-    top: 100px;
-   left: 20%;
+    position: absolute;
+    left: 40%;
+    right: 40%;
+    opacity: 39;
+    top: 30%;
+    color: red;
+    font-size: 20px;
     background: black;
     z-index: 99;
 }
+
 #profilePicture, #profilePicture img {
     position: relative;
     width: 96px;
