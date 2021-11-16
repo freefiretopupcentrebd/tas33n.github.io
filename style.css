@@ -34,7 +34,16 @@ body {
 .active {
 display: block !important;
 }
-
+#btn {
+    background: none;
+    border: none;
+    position: fixed;
+    color: white;
+    bottom: 50px;
+    right: 20px;
+    z-index: 9999;
+   font-size: 35px;
+}
 #opc div {
     position: absolute;
     left: 40%;
