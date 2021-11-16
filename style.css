@@ -29,6 +29,7 @@ body {
     z-index: 9;
     background: rgba(0,0,0,0.6);
     display: none;
+    text-align: center;
 
 }
 #opc iframe {
