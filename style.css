@@ -85,7 +85,7 @@ display: block !important;
 #links {
     max-width: 675px;
     width: auto;
-    display: block;
+    display: block !important;
     margin: 27px auto;
     
     box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
